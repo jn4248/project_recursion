@@ -1,4 +1,4 @@
-# project_recursion
+# recursion
 Ruby recursion method implementations: Display Fibonacci Sequence, and merge sort
 
 ##  Overview
